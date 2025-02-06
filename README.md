@@ -1,4 +1,4 @@
-# 3SFC
+# E-3SFC
 The official code for "E-3SFC: Communication-Efficient Federated Learning with Double-way Features Synthesizing", TNNLS 2025
 
 ## Abstract
