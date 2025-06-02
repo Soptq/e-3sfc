@@ -13,6 +13,7 @@ python main.py --method ours --n_client 10 --n_epoch 200 --n_client_epoch 5 --da
 ```
 
 ## Citation
+```
 @misc{zhou2025e3sfccommunicationefficientfederatedlearning,
       title={E-3SFC: Communication-Efficient Federated Learning with Double-way Features Synthesizing}, 
       author={Yuhao Zhou and Yuxin Tian and Mingjia Shi and Yuanxi Li and Yanan Sun and Qing Ye and Jiancheng Lv},
@@ -22,3 +23,4 @@ python main.py --method ours --n_client 10 --n_epoch 200 --n_client_epoch 5 --da
       primaryClass={cs.LG},
       url={https://arxiv.org/abs/2502.03092}, 
 }
+```
